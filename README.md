@@ -1,1 +1,1 @@
-# Serverless-Student-Management-System-AWS-
+# Serverless-Student-Management-System-AWS
