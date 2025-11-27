@@ -139,6 +139,14 @@ def lambda_handler(event, context):
 ![Image description4](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7j6pkj6d0jaovpuz1z5.png)
 
 # 📌 OutPut
+
+**A fully serverless application capable of:**
+
+- ✔ Retrieving student data
+- ✔ Inserting new student records
+- ✔ Serving a secure, globally cached frontend
+- ✔ Running entirely on AWS managed services
+
 ![Image description6](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b1hp7mvzy14myiun1tct.png)
 
 
